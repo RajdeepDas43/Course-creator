@@ -1,0 +1,77 @@
+{
+  "course_title": "Building a GPT model from scratch",
+  "course_summary": "This course provides an all-inclusive guide to building a Generalized Pre-training Transformer (GPT) model from scratch. Participants will gain hands-on experience with building and training this language processing AI model. They'll explore Python code examples and deep dive into understanding how this language model reads and understands text data for effective predictions.",
+  "prior_knowledge_assumed": "Python, Data Structures and Algorithms",
+  "modules": [
+    {
+      "module_title": "Understanding Language Processing",
+      "submodules": [
+        {
+          "submodule_title": "Intro to Natural Language Processing",
+          "submodule_summary": "Explains the basic principles and purpose of NLP",
+          "word_count": 350
+        },
+        {
+          "submodule_title": "Text preprocessing techniques",
+          "submodule_summary": "Covers techniques like tokenizing, stemming, and lemmatization",
+          "word_count": 200
+        }
+      ]
+    },
+    {
+      "module_title": "Exploring GPT Language Models",
+      "submodules": [
+        {
+          "submodule_title": "Introduction to GPT",
+          "submodule_summary": "Explains what GPT is, its architecture, and how it differs from other models",
+          "word_count": 500
+        },
+        {
+          "submodule_title": "Understanding Transfer Learning in GPT",
+          "submodule_summary": "Discuss how GPT leverages transfer learning and benefits from it",
+          "word_count": 400
+        }
+      ]
+    },
+    {
+      "module_title": "Building GPT model from Scratch",
+      "submodules": [
+        {
+          "submodule_title": "Preparing the Dataset",
+          "submodule_summary": "Walks you through the process of preparing and cleaning the dataset for the model",
+          "word_count": 450
+        },
+        {
+          "submodule_title": "Implementing GPT Model",
+          "submodule_summary": "Guides on how to implement the GPT model from scratch",
+          "word_count": 600
+        },
+        {
+          "submodule_title": "Training the Model",
+          "submodule_summary": "Details the process necessary to train the GPT model",
+          "word_count": 500
+        },
+        {
+          "submodule_title": "Testing and Evaluating the Model",
+          "submodule_summary": "Showcases methods to test and evaluate the performance of the trained model",
+          "word_count": 350
+        }
+      ]
+    },
+    {
+      "module_title": "Advanced GPT Concepts",
+      "submodules": [
+        {
+          "submodule_title": "Fine-tuning GPT models",
+          "submodule_summary": "Demonstrates how to fine-tune GPT models for better outputs",
+          "word_count": 400
+        },
+        {
+          "submodule_title": "Practical use-cases of GPTs",
+          "submodule_summary": "Explores various real world applications where GPTs can be used",
+          "word_count": 350
+        }
+      ]
+    }
+  ]
+}
